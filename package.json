@@ -1,0 +1,10 @@
+{
+  "jest": {
+    "transformIgnorePatterns": [
+      "node_modules/(?!module1|module2|etc)"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
